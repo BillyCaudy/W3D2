@@ -1,0 +1,5 @@
+require './users'
+require './questions'
+require './replies'
+require './question_likes'
+require './question_follows'
